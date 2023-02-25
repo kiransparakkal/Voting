@@ -1,8 +1,7 @@
 # Voting
 
 Background:
-
-In this assignment you will design and implement several voting rules. In a voting setting, we have a set of 
+ In a voting setting, we have a set of 
  agents and a set of 
  alternatives. Every agent has a preference ordering 
  where 
