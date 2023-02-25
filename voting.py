@@ -1,8 +1,4 @@
-'''''
-Kiran Santhosh Parakkal
 
-Student Id:201665230
-'''''
 from openpyxl import Workbook
 from collections import Counter
 
